@@ -3,5 +3,5 @@
 ## Run
 
 ```bash 
-npx cli-todo-list 
+npx todolist-cli-saad 
 ``` 
